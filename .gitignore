@@ -1,0 +1,17 @@
+cmake-build-debug/
+
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+
+*.o
+*.obj
+*.exe
+*.log
+
+.idea/
+*.iml
+
+
